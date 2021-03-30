@@ -404,7 +404,7 @@
    display: none; }
  
  body {
-   background: black;
+   background: rgb(48, 47, 47);
    font-family: "Source Code Pro", monospace, "Roboto", sans-serif;
    font-size: 1.1em;
    color: white;
