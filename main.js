@@ -2,12 +2,13 @@ $(document).ready(function(){
     $('.nojs').hide(); 
   
     $(function() {
-      console.log("js is (t)werking");
+      console.log("js is working");
       $('#typedJS').typed({
         strings: [
         "Hello there",
         "I'm Sadiq",
-        "check me out below.",
+        "Check me out below.",
+        "Why not?",
         ],
         typeSpeed: 60,
         backSpeed: 30,
